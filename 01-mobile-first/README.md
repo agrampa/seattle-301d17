@@ -2,6 +2,8 @@
 
 ## Today's Plan
 
+Song for the day: ["Who Do You Want To Be?"](https://www.youtube.com/watch?v=ym2huLDA_rE&index=1&list=PLVngfM2hsbi97X7yB1bCwl5qSoC23l9zo) by Oingo Boingo (4/25/87)
+
 `MORNING LECTURE`
 
 - Overview of MVC
@@ -13,13 +15,15 @@
   2. RWD
 
 `lunch break`
+
 `AFTERNOON LECTURE`
 
 - Overview of course structure/setup
-  1. The evolving blog & starter code
-  2. The ongoing portfolio assignment
-  3. Git flow for labs, all pairs all the time!
-  4. Live-server
+  - The evolving blog & starter code
+	- Time to spend on labs
+  - The ongoing portfolio assignment
+  - Git flow for labs, all pairs all the time!
+  - Live-server
 
 - Useful tools
 	- Our YouTube channel
@@ -29,8 +33,7 @@
 `break`
 
 - Discussion of reading assignments
-- Responsive design code demo: media queries FTW!
-- And let's throw in some icon font action!
+- Very basic responsive design code demo: media queries FTW!
 
 `break`
 
@@ -39,7 +42,7 @@
 - OK, now code review.
 - Review of today's lab assignment
 	- Let's develop some mobile/responsive super-powers!
-	- With a pair, make the blog responsive, so it hides the main navigation menu under a "Hamburger" link on small screens, and unfurls to a row of tab-like links on larger screens.
+	- In a pair, make the blog responsive, so it hides the main navigation menu under a "Hamburger" link on small screens, and unfurls to a row of tab-like links on larger screens.
 	- Then, see how you can apply these same ideas in your portfolio!
 
 ## Helpful Resources
@@ -47,4 +50,4 @@
  - [FlatIcon: another icon source](http://www.flaticon.com/)
  - [Shay Howe's Intro to RWD](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
  - [Dale Sande's Intro to RWD](http://www.anotheruiguy.com/ux-design-dev/_book/rwd/README.html)
- - [Example extra-fancy responsive hamburger](http://www.sitepoint.com/pure-css-off-screen-navigation-menu/)
+ - [Example: extra-fancy responsive hamburger](http://www.sitepoint.com/pure-css-off-screen-navigation-menu/)
