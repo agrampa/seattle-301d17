@@ -6,3 +6,19 @@ body {
 h1 {
   background-color: yellow;
 }
+
+@media screen and (min-width: 700px) {
+  h1 {
+    background-color: blue;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  body {
+    background-color: red;
+  }
+  h1 {
+    font-family: Helvetica;
+    background-color: orange;
+  }
+}
