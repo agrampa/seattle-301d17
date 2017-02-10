@@ -13,7 +13,7 @@ Song for the Day: ["If You've Only Got A Moustache"](http://www.stephen-foster-s
 	- Remember that annoying concatenated assignment of the `var option` from  from yesterday...
 		- `'<option value="' + authorName + '">' + authorName + '</option>';`
 	- That can be replaced with this!
-		- `\`<option value="${authorName}">${authorName}</option>\``;
+		- `<option value="${authorName}">${authorName}</option>`;
 	- WAY less confusing!!!
 - Regular Expressions (RegEx)
   - [*"Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. These patterns are used with the exec and test methods of RegExp, and with the match, replace, search, and split methods of String. This chapter describes JavaScript regular expressions."*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
