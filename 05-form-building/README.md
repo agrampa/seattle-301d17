@@ -1,5 +1,7 @@
 # Form Building Workshop
 
+Today we'll add a new page to the blog app, and get it wired up during an in-class workshop. That will be done in lieu of a pair-programming assignment.
+
 ## Learning Objectives
 
 * Recap the primary concepts discussed throughout the week.
