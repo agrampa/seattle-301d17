@@ -8,7 +8,7 @@ Song for the day: ["Kundalini Express"](https://www.youtube.com/watch?v=8mnx8jns
 	- Before we do anything else today, let's make sure everyone has Node installed, and if not, go ahead and get that process going.
 	- Sam has meetings at 4:00 today and tomorrow.
 - Code Review: let's go around and have everyone explain a line of code!
-- AJAX review: Let's go through the [AJAX-demo.md(https://github.com/codefellows/seattle-301d17/blob/master/06-ajax-http/AJAX-demo.md) file that was added to the lecture repo yesterday afternoon.
+- AJAX review: Let's go through the [AJAX-demo.md](https://github.com/codefellows/seattle-301d17/blob/master/06-ajax-http/AJAX-demo.md) file that was added to the lecture repo yesterday afternoon.
 
 `10 minute break`
 
