@@ -13,7 +13,7 @@ Song for the day: ["The Letter"](https://www.youtube.com/watch?v=HIWY8UyW9bw) by
 - Quick review of student survey comments
 - Code Review Q&A (let's try to keep it kinda short, because the new stuff today is `HUGE`)
 - The week behind, and the week ahead
-- Slides: [AJAX & JSON Overview](https://github.com/codefellows/seattle-301d17/blob/master/class-06-ajax-and-json/06-http-json-ajax.pdf)
+- Slides: [AJAX & JSON Overview](https://github.com/codefellows/seattle-301d17/blob/master/06-ajax-http/06-http-json-ajax.pdf)
 	- The HTTP Party
 	- JSON
 	- AJAX
