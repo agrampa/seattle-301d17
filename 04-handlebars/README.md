@@ -33,11 +33,11 @@ Song for the Day: ["If You've Only Got A Moustache"](http://www.stephen-foster-s
   	- **{{WIN}}**
 
 ## Useful Resources
- - [Google Fonts](www.google.com/fonts)
- - [Treehouse: Web Typography Course](teamtreehouse.com/library/web-typography)
- - [Practical Typography Site](practicaltypography.com/)
- - [A More Modern Scale for Web Typography via typecast.com](typecast.com/blog/a-more-modern-scale-for-web-typography)
- - [Type Scale Tool via type-scale.com](type-scale.com)
+ - [Google Fonts](https://www.google.com/fonts)
+ - [Treehouse: Web Typography Course](https://teamtreehouse.com/library/web-typography)
+ - [Practical Typography Site](https://practicaltypography.com/)
+ - [A More Modern Scale for Web Typography via typecast.com](https://typecast.com/blog/a-more-modern-scale-for-web-typography)
+ - [Type Scale Tool via type-scale.com](https://type-scale.com)
 
 
 
