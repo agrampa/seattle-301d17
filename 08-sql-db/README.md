@@ -16,6 +16,8 @@
 
 ## Today's Plan
 
+Song for today: ["The Empire Strikes Back Theme"](https://www.youtube.com/watch?v=dhL_v6yZIso&index=1&list=PLVngfM2hsbi97X7yB1bCwl5qSoC23l9zo) by Meco, a true disco abomination!
+
 - Code Review (brief; just enough to clarify yesterday)
 - Nodemon!!! Let's install it!
 - Installation of Postgres progress?
