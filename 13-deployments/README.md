@@ -4,6 +4,8 @@
 
 *The focus of this class is on understanding the concept of production deployments in conjunction with development and production environments.  Through the use of Heroku, students will learn about the deployment process, configuration of environment variables, and general issues that can arise during the deployment phase of a project. Students should also understand development, production, and feature branches and how they are used in collaborative development.*
 
+Song for the day: "Somewhere Over the Rainbow" performed by Ray Charles
+
 - Announcements
 	- Project Week is coming!
 		- Today we'll continue discussing project ideas *(we'll talk about this after finishing announcements, and look at the related Canvas assignment)* so that we can get a sense of how to scope them, and also develop a list of possible projects.
