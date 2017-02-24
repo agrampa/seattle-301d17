@@ -23,9 +23,13 @@ Song for the day: "The Final Countdown" by Gabe The Dog
 
 **Any requested topics for more specific review? Let's make a list!**
 
-- (topic 1?)
-- (topic 2?)
-- (topic 3?)
+- Arrow functions
+- Client-side vs. server-side routing
+- AJAX + async
+- Steps of creating/using JSON
+- FP
+- Node/PostGres
+- Look at the middleware demo
 
 `BREAK (10 minutes)`
 
